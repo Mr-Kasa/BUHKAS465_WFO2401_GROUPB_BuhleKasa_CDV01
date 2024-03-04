@@ -39,7 +39,7 @@ When creating a professional portfolio on GitHub, it's important to prioritize e
 1. **Profile Picture**:
    - A professional and clear profile picture helps create a positive first impression.
 
-2. **Profile Summary/Bio**:
+2. **Profile Summary/Bio**:I am a Front-end developer with exceptional skills in JavaScript, Tailwind, and HTML. I create responsive and interactive websites for all your needs.
    - A well-written bio that highlights your skills and career goals is essential for providing context about yourself.
 
 3. **Pinned Repositories**:
